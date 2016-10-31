@@ -1,4 +1,4 @@
-#100door
+#100doors
 
 doors=[]
 for n in range (100):
